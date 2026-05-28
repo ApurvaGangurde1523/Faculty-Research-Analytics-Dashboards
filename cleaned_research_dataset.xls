@@ -1,0 +1,425 @@
+faculty_name,department,designation,experience_(years),google_h_index,scopus_h_index,wos_h_index,no_of_conf_papers_in_scopus,no_of_journal_papers_in_scopus,no_of_conf_papers_in_wos,no_of_journal_papers_in_wos,patents_granted,patents_published,copyrights,research_grants,funding_in_lakhs,total_publications,total_h_index,productivity_level,experience_group,funding_category
+Pramod Tiwari,CE,Associate Professor,16.5,11.0,5.0,4.0,27.0,0.0,16.0,5.0,0.0,0.0,0.0,2.0,44.0,48.0,40.0,Low,20+ yrs,Medium
+Harish Jadhav,Mathematics,Assistant Professor,8.0,18.0,9.0,10.0,81.0,2.0,5.0,3.0,1.0,2.0,0.0,1.0,55.0,91.0,74.0,High,5-10 yrs,High
+Vrushali Reddy,IT,Assistant Professor,26.0,0.0,4.0,4.0,29.0,7.0,2.0,1.0,2.0,0.0,1.0,0.0,0.0,39.0,8.0,Medium,20+ yrs,Low
+Ravi Tiwari,Mathematics,Associate Professor,29.0,6.0,4.0,0.0,10.0,18.0,9.0,1.0,1.0,3.0,0.0,0.0,0.0,38.0,20.0,Medium,20+ yrs,Low
+Rahul Joshi,EEE,Assistant Professor,3.0,11.0,5.0,7.0,4.0,4.0,0.0,3.0,2.0,1.0,0.0,0.0,0.0,11.0,46.0,Low,0-5 yrs,Low
+Bhavna Salunkhe,Humanities,Assistant Professor,18.0,116.0,0.0,0.0,11.0,8.0,0.0,11.0,0.0,1.0,1.0,4.0,162.0,30.0,116.0,Low,10-20 yrs,High
+Nilesh Wagh,MBA,Assistant Professor,12.0,0.0,3.0,1.0,20.0,6.0,7.0,0.0,2.0,2.0,2.0,0.0,0.0,33.0,4.0,Medium,10-20 yrs,Low
+Yash Nair,MBA,Professor,15.0,3.0,1.0,0.0,0.0,7.0,14.0,2.0,0.0,0.0,3.0,0.0,0.0,23.0,8.0,Low,10-20 yrs,Low
+Usha Sawant,Chemistry,Associate Professor,7.0,8.0,0.0,0.0,15.0,12.0,9.0,0.0,0.0,2.0,1.0,0.0,0.0,36.0,8.0,Medium,5-10 yrs,Low
+Kiran Shetty,MBA,Assistant Professor,20.0,7.0,7.0,5.0,12.0,4.0,11.0,0.0,0.0,2.0,0.0,1.0,32.0,27.0,38.0,Medium,20+ yrs,Medium
+Radha Kumar,MCA,Associate Professor,2.0,8.0,2.0,0.0,0.0,3.0,0.0,8.0,0.0,1.0,2.0,1.0,21.0,11.0,20.0,Low,0-5 yrs,Medium
+Nisha Waghmare,Humanities,Assistant Professor,12.0,14.0,-1.0,7.0,7.0,3.0,17.0,3.0,0.0,0.0,0.0,3.0,115.0,30.0,40.0,Medium,10-20 yrs,High
+Vrushali Mehta,CSE,Assistant Professor,28.0,10.0,9.0,6.0,16.0,8.0,13.0,6.0,3.0,1.0,0.0,1.0,66.0,43.0,50.0,Medium,20+ yrs,High
+Preeti Patil,CSE,Associate Professor,23.0,12.0,8.0,9.0,22.0,15.0,0.0,2.0,0.0,0.0,3.0,0.0,0.0,39.0,58.0,Low,20+ yrs,Low
+Leena Desai,ME,Associate Professor,9.0,6.0,4.0,0.0,0.0,12.0,5.0,0.0,0.0,3.0,8.0,2.0,0.0,17.0,10.0,Low,5-10 yrs,Low
+Nitin Verma,ME,Professor,30.0,10.0,8.0,2.0,11.0,15.0,0.0,0.0,1.0,0.0,2.0,0.0,0.0,26.0,40.0,Low,20+ yrs,Low
+Harish Kamble,Humanities,Professor,11.0,7.0,3.0,2.0,10.0,9.0,0.0,0.0,1.0,0.0,1.0,4.0,136.0,19.0,24.0,Low,10-20 yrs,High
+Geeta Reddy,Humanities,Assistant Professor,31.0,8.0,13.0,1.0,25.0,12.0,4.0,3.0,1.0,1.0,0.0,0.0,32.0,44.0,44.0,Medium,20+ yrs,Medium
+Vaishali Pawar,CSE,Assistant Professor,13.0,16.0,8.0,9.0,16.0,10.0,7.0,3.0,0.0,0.0,0.0,0.0,0.0,36.0,66.0,Medium,10-20 yrs,Low
+Sunita Shah,Physics,Associate Professor,22.0,0.0,10.0,4.0,0.0,15.0,3.0,0.0,2.0,4.0,0.0,2.0,106.0,18.0,14.0,Low,20+ yrs,High
+Hemant Thakur,ME,Assistant Professor,2.0,5.0,0.0,0.0,11.0,4.0,1.0,4.0,0.0,2.0,1.0,0.0,0.0,20.0,10.0,Low,0-5 yrs,Low
+Nilesh Dubey,Humanities,Assistant Professor,3.0,13.0,51.0,10.0,30.0,4.0,0.0,4.0,0.0,1.0,1.0,0.0,0.0,38.0,148.0,Low,0-5 yrs,Low
+Divya Borkar,ME,Assistant Professor,11.0,10.0,5.0,2.0,12.0,15.0,3.0,0.0,1.0,1.0,2.0,1.0,0.0,30.0,34.0,Medium,10-20 yrs,Low
+Aparna Reddy,ECE,Associate Professor,17.0,8.0,5.0,0.0,26.0,0.0,8.0,7.0,0.0,2.0,0.0,4.0,171.0,41.0,13.0,Medium,10-20 yrs,High
+Vikas Joshi,MCA,Assistant Professor,28.0,11.0,0.0,4.0,27.0,8.0,4.0,3.0,0.0,2.0,2.0,0.0,0.0,42.0,15.0,Medium,20+ yrs,Low
+Naresh Joshi,ECE,Professor,22.0,0.0,10.0,8.0,0.0,13.0,0.0,0.0,0.0,1.0,3.0,0.0,0.0,13.0,18.0,Low,20+ yrs,Low
+Vinay Pandey,ME,Associate Professor,21.0,11.0,6.0,0.0,12.0,7.0,18.0,0.0,0.0,0.0,0.0,2.0,107.0,37.0,17.0,Medium,20+ yrs,High
+Ganesh Bhosale,MCA,Associate Professor,26.0,7.0,7.0,5.0,12.0,2.0,0.0,6.0,0.0,1.0,2.0,4.0,0.0,20.0,38.0,Low,20+ yrs,Low
+Nilesh Shinde,MBA,Associate Professor,25.0,17.0,10.0,0.0,10.0,6.0,11.0,0.0,3.0,0.0,1.0,1.0,24.0,27.0,27.0,Medium,20+ yrs,Medium
+Dhananjay Mane,EEE,Professor,32.0,14.0,34.0,0.0,10.0,0.0,8.0,1.0,1.0,2.0,0.0,0.0,0.0,19.0,48.0,Low,20+ yrs,Low
+Amit Kamath,CSE,Professor,29.0,14.0,7.0,5.0,24.0,10.0,38.0,0.0,1.0,1.0,2.0,0.0,0.0,72.0,52.0,High,20+ yrs,Low
+Vrushali Sawant,Physics,Assistant Professor,17.0,8.0,3.0,2.0,15.0,9.0,5.0,1.0,0.0,0.0,0.0,1.0,-999.0,30.0,26.0,Medium,10-20 yrs,Low
+Sudha Kumar,Humanities,Professor,10.0,0.0,5.0,2.0,13.0,10.0,12.0,0.0,2.0,1.0,1.0,1.0,55.0,35.0,7.0,Medium,10-20 yrs,High
+Archana Pawar,MBA,Assistant Professor,20.0,0.0,12.0,8.0,3.0,3.0,4.0,5.0,1.0,0.0,0.0,0.0,0.0,15.0,20.0,Low,20+ yrs,Low
+Santosh Chavan,Chemistry,Associate Professor,12.0,9.0,0.0,0.0,12.0,4.0,10.0,1.0,1.0,1.0,1.0,1.0,0.0,27.0,9.0,Medium,10-20 yrs,Low
+Sunita Saxena,Physics,Associate Professor,12.0,0.0,2.0,0.0,9.0,43.0,12.0,1.0,0.0,37.0,2.0,3.0,96.0,65.0,2.0,High,10-20 yrs,High
+Satish Mishra,Humanities,Assistant Professor,9.0,12.0,0.0,7.0,0.0,0.0,0.0,0.0,2.0,0.0,2.0,4.0,180.0,0.0,19.0,Low,5-10 yrs,High
+Aparna Kulkarni,IT,Associate Professor,23.0,17.0,11.0,0.0,0.0,12.0,4.0,6.0,1.0,0.0,0.0,1.0,-999.0,22.0,28.0,Medium,20+ yrs,Low
+Tushar Suryawanshi,MBA,Assistant Professor,13.0,6.0,1.0,0.0,0.0,61.0,8.0,7.0,1.0,0.0,0.0,0.0,0.0,76.0,14.0,Low,10-20 yrs,Low
+Sarita Mehta,CSE,Assistant Professor,16.5,8.0,6.0,5.0,24.0,7.0,175.0,5.0,0.0,2.0,0.0,2.0,285.0,211.0,38.0,High,20+ yrs,High
+Urmila Jadhav,Mathematics,Professor,8.0,5.0,3.0,0.0,6.0,10.0,10.0,7.0,0.0,2.0,3.0,0.0,0.0,33.0,16.0,Medium,5-10 yrs,Low
+Krishna Mane,CE,Professor,15.0,6.0,1.0,1.0,13.0,7.0,0.0,1.0,2.0,0.0,3.0,4.0,164.0,21.0,16.0,Medium,10-20 yrs,High
+Shirish Wagh,MCA,Assistant Professor,12.0,12.0,6.0,7.0,17.0,5.0,5.0,0.0,3.0,4.0,1.0,1.0,71.0,27.0,50.0,Medium,10-20 yrs,High
+Rekha More,ECE,Assistant Professor,17.0,16.0,10.0,7.0,23.0,0.0,8.0,6.0,0.0,0.0,4.0,2.0,87.0,37.0,66.0,Medium,10-20 yrs,High
+Deepak Deshpande,CE,Associate Professor,10.0,11.0,6.0,7.0,6.0,12.0,0.0,12.0,0.0,0.0,2.0,2.0,56.0,30.0,48.0,Low,10-20 yrs,High
+Kedarnath Bhatt,Mathematics,Professor,5.0,1.0,0.0,0.0,6.0,10.0,1.0,0.0,2.0,3.0,0.0,0.0,0.0,17.0,1.0,Low,5-10 yrs,Low
+Nisha Borkar,CSE,Assistant Professor,6.0,11.0,5.0,2.0,5.0,0.0,3.0,5.0,1.0,2.0,0.0,1.0,31.0,13.0,36.0,Low,5-10 yrs,Medium
+Naresh Londhe,ME,Associate Professor,28.0,14.0,9.0,0.0,26.0,0.0,0.0,10.0,2.0,0.0,0.0,0.0,0.0,36.0,23.0,Low,20+ yrs,Low
+Pallavi Wagh,Mathematics,Associate Professor,5.0,13.0,0.0,4.0,19.0,0.0,14.0,0.0,0.0,1.0,0.0,1.0,30.0,33.0,17.0,Low,5-10 yrs,Medium
+Unknown,Unknown,Unknown,16.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low,20+ yrs,Low
+Vikram Trivedi,Chemistry,Assistant Professor,2.0,4.0,0.0,0.0,10.0,7.0,0.0,0.0,3.0,2.0,0.0,2.0,-999.0,17.0,8.0,Low,0-5 yrs,Low
+Prakash Patel,Physics,Assistant Professor,5.0,0.0,0.0,1.0,0.0,2.0,8.0,4.0,2.0,2.0,0.0,0.0,5.0,14.0,1.0,Low,5-10 yrs,Low
+Kedarnath Agarwal,ME,Professor,24.0,14.0,9.0,8.0,23.0,8.0,19.0,8.0,0.0,1.0,3.0,0.0,0.0,58.0,62.0,High,20+ yrs,Low
+Lata Dubey,MBA,Assistant Professor,4.0,15.0,7.0,5.0,10.0,3.0,16.0,0.0,0.0,0.0,2.0,0.0,0.0,29.0,54.0,Medium,0-5 yrs,Low
+Naresh Mane,MCA,Assistant Professor,24.0,151.0,15.0,11.0,23.0,5.0,17.0,10.0,3.0,0.0,0.0,0.0,0.0,55.0,354.0,High,20+ yrs,Low
+Archana Waghmare,MBA,Assistant Professor,16.0,13.0,7.0,6.0,20.0,19.0,5.0,3.0,2.0,0.0,1.0,0.0,0.0,47.0,52.0,Medium,10-20 yrs,Low
+Rahul Dubey,MCA,Professor,4.0,999.0,9.0,7.0,0.0,0.0,9.0,0.0,0.0,0.0,1.0,2.0,102.0,9.0,2030.0,Low,0-5 yrs,High
+Sachin Joshi,EEE,Associate Professor,19.0,12.0,11.0,10.0,14.0,8.0,8.0,3.0,1.0,0.0,0.0,2.0,102.0,33.0,66.0,Medium,10-20 yrs,High
+Vikram Salunkhe,Chemistry,Assistant Professor,6.0,5.0,0.0,4.0,11.0,5.0,7.0,0.0,0.0,1.0,3.0,0.0,26.0,23.0,9.0,Medium,5-10 yrs,Medium
+Archana Pillai,MCA,Associate Professor,20.0,18.0,10.0,10.0,9.0,5.0,11.0,8.0,0.0,0.0,3.0,2.0,81.0,33.0,76.0,Medium,20+ yrs,High
+Bhavna Bhosale,CSE,Associate Professor,21.0,15.0,11.0,0.0,0.0,5.0,6.0,0.0,0.0,1.0,0.0,1.0,0.0,11.0,26.0,Low,20+ yrs,Low
+Priya Kamath,IT,Assistant Professor,24.0,10.0,7.0,7.0,8.0,6.0,7.0,8.0,0.0,4.0,0.0,2.0,73.0,29.0,48.0,Medium,20+ yrs,High
+Ramesh More,CSE,Associate Professor,17.0,8.0,0.0,0.0,21.0,9.0,4.0,3.0,0.0,2.0,0.0,0.0,0.0,37.0,16.0,Medium,10-20 yrs,Low
+Sarita Kamath,Physics,Associate Professor,24.0,12.0,11.0,10.0,10.0,3.0,13.0,1.0,0.0,1.0,0.0,2.0,116.0,27.0,66.0,Medium,20+ yrs,High
+Abhijit Desai,IT,Assistant Professor,17.0,16.0,11.0,10.0,10.0,14.0,14.0,0.0,0.0,1.0,1.0,2.0,78.0,38.0,74.0,Low,10-20 yrs,High
+Amit Chavan,EEE,Professor,8.0,14.0,0.0,10.0,0.0,4.0,11.0,1.0,3.0,2.0,2.0,3.0,110.0,16.0,24.0,Low,5-10 yrs,High
+Pallavi Kamath,EEE,Assistant Professor,27.0,10.0,7.0,5.0,0.0,4.0,8.0,8.0,0.0,3.0,3.0,0.0,0.0,20.0,44.0,Low,20+ yrs,Low
+Ravi Verma,Chemistry,Assistant Professor,31.0,12.0,0.0,0.0,9.0,1.0,0.0,37.0,1.0,1.0,2.0,4.0,174.0,47.0,12.0,Medium,20+ yrs,High
+Meera Trivedi,MBA,Professor,23.0,6.0,2.0,4.0,23.0,12.0,0.0,9.0,0.0,0.0,2.0,2.0,80.0,44.0,24.0,Low,20+ yrs,High
+Urmila Patel,CE,Associate Professor,3.0,19.0,14.0,10.0,0.0,8.0,5.0,2.0,0.0,4.0,0.0,2.0,54.0,15.0,86.0,Low,0-5 yrs,High
+Chitra Thakur,Physics,Assistant Professor,16.0,17.0,0.0,0.0,16.0,11.0,5.0,6.0,0.0,4.0,0.0,5.0,220.0,38.0,17.0,Medium,10-20 yrs,High
+Nisha Shetty,Physics,Associate Professor,29.0,18.0,12.0,0.0,8.0,9.0,10.0,4.0,0.0,3.0,3.0,0.0,0.0,31.0,30.0,Medium,20+ yrs,Low
+Girish Bhatt,ME,Professor,8.0,21.0,14.0,10.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,3.0,90.0,Low,5-10 yrs,Low
+Radha Reddy,Mathematics,Assistant Professor,14.0,7.0,1.0,0.0,14.0,2.0,5.0,6.0,1.0,0.0,0.0,1.0,9.0,27.0,16.0,Medium,10-20 yrs,Low
+Ravi Saxena,EEE,Assistant Professor,7.0,8.0,2.0,5.0,12.0,5.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,17.0,30.0,Low,5-10 yrs,Low
+Ganesh Gaikwad,EEE,Assistant Professor,15.0,17.0,10.0,9.0,18.0,9.0,8.0,8.0,1.0,0.0,2.0,0.0,0.0,43.0,72.0,Medium,10-20 yrs,Low
+Bharati Londhe,CE,Assistant Professor,30.0,12.0,4.0,5.0,20.0,11.0,0.0,7.0,0.0,0.0,0.0,0.0,0.0,38.0,42.0,Medium,20+ yrs,Low
+Anita Salunkhe,Physics,Associate Professor,18.0,11.0,5.0,1.0,12.0,8.0,3.0,5.0,0.0,0.0,4.0,0.0,0.0,28.0,34.0,Medium,10-20 yrs,Low
+Lata Patel,ECE,Assistant Professor,23.0,10.0,7.0,2.0,21.0,8.0,11.0,7.0,1.0,0.0,1.0,1.0,34.0,47.0,38.0,Medium,20+ yrs,Medium
+Sneha Thorat,CSE,Assistant Professor,32.0,11.0,9.0,6.0,23.0,4.0,17.0,4.0,0.0,0.0,1.0,2.0,76.0,48.0,52.0,Medium,20+ yrs,High
+Archana Reddy,Chemistry,Associate Professor,21.0,12.0,8.0,9.0,2.0,12.0,11.0,13.0,0.0,0.0,1.0,0.0,0.0,38.0,58.0,Medium,20+ yrs,Low
+Bharati Saxena,EEE,Professor,27.0,11.0,0.0,4.0,7.0,6.0,4.0,4.0,0.0,9.0,0.0,0.0,0.0,21.0,15.0,Medium,20+ yrs,Low
+Dhananjay Joshi,Humanities,Assistant Professor,18.0,15.0,12.0,0.0,0.0,15.0,5.0,0.0,0.0,1.0,0.0,1.0,43.0,20.0,27.0,Low,10-20 yrs,Medium
+Manisha Desai,MCA,Assistant Professor,22.0,11.0,7.0,4.0,10.0,10.0,12.0,3.0,0.0,1.0,5.0,2.0,90.0,35.0,44.0,Medium,20+ yrs,High
+Ashok Trivedi,Mathematics,Associate Professor,13.0,5.0,2.0,0.0,15.0,0.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,20.0,7.0,Low,10-20 yrs,Low
+Vaishali Verma,MCA,Professor,8.0,10.0,2.0,1.0,0.0,7.0,59.0,0.0,1.0,0.0,0.0,1.0,49.0,66.0,26.0,Low,5-10 yrs,Medium
+Santosh Naik,Mathematics,Assistant Professor,25.0,11.0,9.0,6.0,2.0,6.0,3.0,0.0,1.0,2.0,0.0,1.0,41.0,11.0,52.0,Low,20+ yrs,Medium
+Smita Verma,ECE,Assistant Professor,16.0,13.0,8.0,9.0,15.0,0.0,6.0,7.0,1.0,0.0,0.0,0.0,0.0,28.0,60.0,Low,10-20 yrs,Low
+Radha Thorat,Chemistry,Associate Professor,1.0,11.0,4.0,4.0,0.0,0.0,12.0,0.0,0.0,0.0,2.0,0.0,0.0,12.0,38.0,Low,0-5 yrs,Low
+Tanvi Gaikwad,EEE,Associate Professor,14.0,5.0,0.0,0.0,0.0,0.0,11.0,0.0,3.0,0.0,0.0,0.0,0.0,11.0,5.0,Low,10-20 yrs,Low
+Jyoti Patel,CE,Associate Professor,22.0,13.0,11.0,8.0,16.0,0.0,0.0,5.0,0.0,21.0,1.0,3.0,125.0,21.0,64.0,Medium,20+ yrs,High
+Rajesh Mane,MBA,Professor,4.0,12.0,12.0,0.0,0.0,1.0,8.0,0.0,0.0,1.0,1.0,3.0,103.0,9.0,24.0,Low,0-5 yrs,High
+Vikas Sharma,MBA,Associate Professor,9.0,16.0,0.0,11.0,8.0,12.0,13.0,6.0,0.0,0.0,0.0,0.0,-999.0,39.0,27.0,Medium,5-10 yrs,Low
+Pallavi Jadhav,CE,Assistant Professor,10.0,6.0,0.0,0.0,8.0,4.0,0.0,0.0,1.0,2.0,0.0,5.0,207.0,12.0,12.0,Low,10-20 yrs,High
+Rajesh Pandey,CSE,Assistant Professor,18.0,14.0,8.0,7.0,23.0,6.0,14.0,3.0,0.0,0.0,0.0,0.0,0.0,46.0,58.0,Medium,10-20 yrs,Low
+Yash Reddy,IT,Assistant Professor,6.0,0.0,0.0,0.0,15.0,8.0,4.0,3.0,0.0,0.0,0.0,0.0,0.0,30.0,0.0,Medium,5-10 yrs,Low
+Girish Gupta,Humanities,Associate Professor,5.0,0.0,0.0,0.0,1.0,6.0,5.0,0.0,0.0,0.0,3.0,0.0,0.0,12.0,0.0,Low,5-10 yrs,Low
+Mahesh Singh,Mathematics,Associate Professor,9.0,14.0,0.0,8.0,0.0,0.0,3.0,7.0,0.0,4.0,1.0,0.0,0.0,10.0,22.0,Low,5-10 yrs,Low
+Rahul Kamath,IT,Associate Professor,12.0,11.0,6.0,1.0,9.0,0.0,0.0,0.0,2.0,2.0,0.0,1.0,36.0,9.0,36.0,Low,10-20 yrs,Medium
+Ganesh More,ME,Professor,29.0,15.0,9.0,8.0,24.0,10.0,53.0,8.0,0.0,18.0,0.0,0.0,0.0,95.0,64.0,High,20+ yrs,Low
+Venkat Verma,MCA,Assistant Professor,32.0,15.0,9.0,0.0,2.0,7.0,12.0,8.0,0.0,1.0,0.0,0.0,0.0,29.0,24.0,Medium,20+ yrs,Low
+Leena Shetty,IT,Associate Professor,27.0,12.0,10.0,6.0,10.0,1.0,0.0,8.0,0.0,0.0,1.0,4.0,0.0,19.0,56.0,Low,20+ yrs,Low
+Vinay Agarwal,MCA,Assistant Professor,2.0,0.0,0.0,0.0,0.0,4.0,3.0,1.0,0.0,0.0,0.0,1.0,31.0,8.0,0.0,Low,0-5 yrs,Medium
+Prakash Deshpande,MBA,Assistant Professor,23.0,8.0,0.0,2.0,5.0,7.0,0.0,4.0,1.0,2.0,1.0,0.0,0.0,16.0,10.0,Low,20+ yrs,Low
+Jyoti Kamble,ECE,Associate Professor,20.0,0.0,14.0,13.0,19.0,4.0,13.0,5.0,0.0,0.0,1.0,0.0,0.0,41.0,27.0,Medium,20+ yrs,Low
+Ganesh Patel,CSE,Professor,18.0,19.0,-1.0,9.0,8.0,1.0,0.0,2.0,0.0,1.0,1.0,4.0,169.0,11.0,54.0,Low,10-20 yrs,High
+Nitin Kamble,Physics,Professor,14.0,13.0,79.0,7.0,8.0,0.0,9.0,1.0,1.0,2.0,1.0,1.0,74.0,18.0,198.0,Low,10-20 yrs,High
+Chhaya Mane,IT,Associate Professor,19.0,17.0,13.0,8.0,16.0,5.0,5.0,0.0,8.0,0.0,5.0,2.0,86.0,26.0,76.0,Low,10-20 yrs,High
+Sneha Mane,ECE,Associate Professor,29.0,9.0,4.0,0.0,9.0,0.0,0.0,9.0,1.0,3.0,1.0,2.0,0.0,18.0,13.0,Low,20+ yrs,Low
+Omkar Verma,ECE,Associate Professor,4.0,14.0,10.0,8.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,0.0,0.0,64.0,Low,0-5 yrs,Low
+Bharati Salunkhe,Mathematics,Associate Professor,21.0,11.0,2.0,0.0,20.0,13.0,6.0,8.0,0.0,0.0,0.0,0.0,0.0,47.0,26.0,Medium,20+ yrs,Low
+Satish Naik,Mathematics,Professor,11.0,999.0,14.0,11.0,5.0,2.0,0.0,4.0,3.0,4.0,0.0,0.0,76.0,11.0,2048.0,Low,10-20 yrs,High
+Milind Desai,Physics,Professor,21.0,18.0,13.0,11.0,19.0,11.0,16.0,5.0,0.0,0.0,0.0,2.0,75.0,51.0,84.0,High,20+ yrs,High
+Sunil Bhat,Chemistry,Assistant Professor,20.0,7.0,4.0,5.0,6.0,15.0,0.0,4.0,0.0,0.0,2.0,3.0,0.0,25.0,32.0,Low,20+ yrs,Low
+Priya Iyer,Physics,Professor,2.0,4.0,0.0,0.0,5.0,18.0,10.0,5.0,0.0,1.0,0.0,1.0,62.0,38.0,4.0,Medium,0-5 yrs,High
+Usha Londhe,Humanities,Associate Professor,1.0,0.0,0.0,0.0,1.0,0.0,5.0,0.0,0.0,0.0,0.0,2.0,85.0,6.0,0.0,Low,0-5 yrs,High
+Suresh Dubey,Chemistry,Associate Professor,22.0,17.0,10.0,0.0,14.0,9.0,16.0,0.0,0.0,0.0,1.0,0.0,0.0,39.0,27.0,Medium,20+ yrs,Low
+Girish Bhat,Physics,Professor,32.0,13.0,7.0,2.0,1.0,5.0,14.0,38.0,0.0,0.0,1.0,0.0,0.0,58.0,44.0,High,20+ yrs,Low
+Aparna Joshi,MBA,Assistant Professor,23.0,4.0,1.0,0.0,3.0,7.0,0.0,8.0,0.0,0.0,2.0,0.0,0.0,18.0,5.0,Low,20+ yrs,Low
+Priya Rao,Humanities,Assistant Professor,5.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.0,159.0,0.0,6.0,Low,5-10 yrs,High
+Venkat Suryawanshi,MCA,Associate Professor,32.0,19.0,14.0,15.0,23.0,15.0,7.0,7.0,0.0,2.0,1.0,5.0,1426.0,52.0,96.0,High,20+ yrs,High
+Sachin Naik,Humanities,Associate Professor,19.0,0.0,0.0,0.0,0.0,11.0,0.0,0.0,0.0,4.0,0.0,1.0,5.0,11.0,0.0,Low,10-20 yrs,Low
+Pooja Kulkarni,ME,Assistant Professor,3.0,2.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0.0,0.0,4.0,2.0,Low,0-5 yrs,Low
+Chhaya More,ECE,Associate Professor,20.0,9.0,0.0,5.0,0.0,8.0,20.0,12.0,1.0,1.0,0.0,4.0,0.0,40.0,14.0,Low,20+ yrs,Low
+Radha Kamble,Chemistry,Assistant Professor,13.0,15.0,0.0,10.0,0.0,12.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,12.0,25.0,Low,10-20 yrs,Low
+Suvarna Kamble,Humanities,Assistant Professor,30.0,13.0,9.0,12.0,27.0,0.0,10.0,106.0,0.0,0.0,0.0,0.0,0.0,143.0,68.0,Low,20+ yrs,Low
+Bhavna Bhat,ECE,Assistant Professor,9.0,6.0,1.0,2.0,4.0,12.0,0.0,31.0,0.0,2.0,0.0,4.0,158.0,47.0,18.0,Low,5-10 yrs,High
+Sanjay Nair,MCA,Associate Professor,17.0,18.0,14.0,9.0,0.0,0.0,20.0,10.0,2.0,0.0,0.0,1.0,0.0,30.0,82.0,Medium,10-20 yrs,Low
+Rohini Pillai,EEE,Assistant Professor,6.0,6.0,0.0,0.0,3.0,7.0,8.0,0.0,0.0,0.0,0.0,4.0,151.0,18.0,12.0,Low,5-10 yrs,High
+Venkat Pillai,Chemistry,Associate Professor,23.0,11.0,6.0,8.0,0.0,0.0,6.0,9.0,1.0,0.0,1.0,4.0,174.0,15.0,50.0,Low,20+ yrs,High
+Venkat Tiwari,MCA,Assistant Professor,11.0,10.0,5.0,3.0,15.0,9.0,1.0,4.0,29.0,0.0,3.0,1.0,19.0,29.0,36.0,Medium,10-20 yrs,Low
+Amit Sharma,Physics,Professor,24.0,7.0,3.0,2.0,10.0,3.0,17.0,2.0,2.0,0.0,0.0,3.0,100.0,32.0,24.0,Medium,20+ yrs,High
+Kiran Iyer,ME,Professor,20.0,11.0,8.0,4.0,29.0,1.0,0.0,8.0,0.0,0.0,0.0,3.0,110.0,38.0,46.0,Medium,20+ yrs,High
+Deepak Pawar,Physics,Associate Professor,16.5,10.0,4.0,4.0,2.0,15.0,10.0,0.0,1.0,1.0,1.0,0.0,-999.0,27.0,36.0,Medium,20+ yrs,Low
+Chitra Londhe,MCA,Associate Professor,18.0,12.0,7.0,7.0,11.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,12.0,52.0,Low,10-20 yrs,Low
+Usha Waghmare,Chemistry,Associate Professor,9.0,15.0,10.0,7.0,13.0,6.0,9.0,2.0,2.0,0.0,1.0,1.0,56.0,30.0,64.0,Medium,5-10 yrs,High
+Divya Chaudhary,EEE,Professor,16.5,3.0,3.0,1.0,8.0,2.0,0.0,4.0,1.0,4.0,0.0,1.0,0.0,14.0,14.0,Low,20+ yrs,Low
+Mahesh Deshpande,CE,Assistant Professor,19.0,8.0,6.0,1.0,25.0,9.0,11.0,8.0,0.0,1.0,0.0,2.0,84.0,53.0,30.0,High,10-20 yrs,High
+Anita Desai,MCA,Associate Professor,27.0,10.0,8.0,5.0,17.0,9.0,17.0,8.0,2.0,1.0,0.0,0.0,0.0,51.0,46.0,High,20+ yrs,Low
+Naresh Chaudhary,Chemistry,Assistant Professor,4.0,21.0,17.0,15.0,5.0,4.0,12.0,0.0,0.0,1.0,0.0,0.0,0.0,21.0,106.0,Medium,0-5 yrs,Low
+Amit Gaikwad,CE,Professor,31.0,13.0,0.0,8.0,31.0,4.0,7.0,0.0,0.0,0.0,0.0,1.0,39.0,42.0,21.0,Medium,20+ yrs,Medium
+Leena Kulkarni,CE,Associate Professor,26.0,0.0,0.0,3.0,10.0,0.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,11.0,3.0,Low,20+ yrs,Low
+Vaishali Pandey,CE,Assistant Professor,23.0,12.0,5.0,8.0,0.0,5.0,8.0,8.0,1.0,0.0,0.0,3.0,109.0,21.0,50.0,Medium,20+ yrs,High
+Rekha Singh,Physics,Professor,21.0,0.0,13.0,9.0,27.0,5.0,12.0,7.0,0.0,0.0,0.0,1.0,24.0,51.0,22.0,High,20+ yrs,Medium
+Preeti Mishra,MBA,Assistant Professor,16.0,10.0,6.0,1.0,28.0,6.0,16.0,2.0,0.0,3.0,0.0,0.0,0.0,52.0,34.0,High,10-20 yrs,Low
+Hemant Deshpande,Physics,Professor,21.0,15.0,9.0,5.0,14.0,7.0,5.0,4.0,0.0,3.0,0.0,0.0,0.0,30.0,58.0,Medium,20+ yrs,Low
+Vaishali Joshi,MBA,Associate Professor,5.0,3.0,2.0,0.0,0.0,9.0,13.0,3.0,0.0,3.0,0.0,0.0,0.0,25.0,10.0,Medium,5-10 yrs,Low
+Manisha Borkar,CE,Assistant Professor,29.0,18.0,13.0,13.0,11.0,1.0,69.0,7.0,0.0,1.0,4.0,0.0,0.0,88.0,88.0,High,20+ yrs,Low
+Preeti Nair,Chemistry,Associate Professor,5.0,2.0,0.0,0.0,8.0,14.0,2.0,1.0,0.0,0.0,1.0,5.0,205.0,25.0,4.0,Medium,5-10 yrs,High
+Geeta Naik,EEE,Assistant Professor,26.0,0.0,8.0,11.0,24.0,0.0,0.0,5.0,2.0,0.0,0.0,4.0,146.0,29.0,19.0,Low,20+ yrs,High
+Krishna Kamble,CSE,Assistant Professor,7.0,0.0,10.0,8.0,8.0,5.0,0.0,6.0,0.0,0.0,0.0,1.0,9.0,19.0,18.0,Low,5-10 yrs,Low
+Milind Londhe,CE,Associate Professor,27.0,14.0,0.0,10.0,6.0,0.0,10.0,4.0,2.0,3.0,2.0,0.0,0.0,20.0,24.0,Low,20+ yrs,Low
+Meera Bhosale,ME,Associate Professor,23.0,18.0,0.0,0.0,11.0,6.0,0.0,0.0,1.0,1.0,1.0,2.0,81.0,17.0,18.0,Low,20+ yrs,High
+Jyoti Tiwari,Chemistry,Assistant Professor,20.0,0.0,10.0,10.0,8.0,14.0,1.0,6.0,0.0,2.0,0.0,0.0,0.0,29.0,20.0,Medium,20+ yrs,Low
+Bhavna Gaikwad,CE,Associate Professor,22.0,4.0,0.0,0.0,11.0,17.0,9.0,1.0,0.0,0.0,0.0,5.0,0.0,38.0,4.0,Medium,20+ yrs,Low
+Chitra Agarwal,CE,Associate Professor,19.0,15.0,9.0,4.0,17.0,10.0,12.0,13.0,1.0,0.0,1.0,1.0,76.0,52.0,56.0,High,10-20 yrs,High
+Meera Thakur,ME,Professor,18.0,10.0,5.0,2.0,10.0,19.0,23.0,8.0,0.0,0.0,0.0,1.0,80.0,60.0,34.0,High,10-20 yrs,High
+Chhaya Iyer,Humanities,Assistant Professor,22.0,7.0,3.0,1.0,0.0,0.0,0.0,1.0,3.0,4.0,1.0,2.0,59.0,1.0,22.0,Low,20+ yrs,High
+Madhuri Rao,Mathematics,Associate Professor,23.0,6.0,5.0,0.0,32.0,5.0,7.0,0.0,2.0,1.0,0.0,2.0,78.0,44.0,22.0,Low,20+ yrs,High
+Venkat Nair,Mathematics,Assistant Professor,5.0,0.0,2.0,0.0,2.0,13.0,129.0,10.0,0.0,0.0,2.0,0.0,0.0,154.0,2.0,High,5-10 yrs,Low
+Satish Thorat,Physics,Associate Professor,14.0,1.0,0.0,0.0,13.0,6.0,9.0,0.0,1.0,2.0,0.0,0.0,0.0,28.0,1.0,Medium,10-20 yrs,Low
+Girish Pillai,CE,Associate Professor,21.0,140.0,14.0,16.0,19.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0,340.0,Medium,20+ yrs,Low
+Nilesh Nair,Humanities,Assistant Professor,21.0,22.0,15.0,10.0,26.0,2.0,3.0,0.0,3.0,0.0,1.0,1.0,33.0,31.0,94.0,Low,20+ yrs,Medium
+Ganesh Borkar,IT,Assistant Professor,7.0,45.0,0.0,0.0,8.0,4.0,4.0,5.0,0.0,0.0,0.0,2.0,62.0,21.0,90.0,Medium,5-10 yrs,High
+Meera Pillai,CSE,Associate Professor,29.0,12.0,3.0,4.0,24.0,7.0,0.0,6.0,1.0,0.0,1.0,1.0,0.0,37.0,38.0,Low,20+ yrs,Low
+Divya Sawant,EEE,Assistant Professor,16.0,10.0,0.0,3.0,3.0,5.0,0.0,8.0,0.0,0.0,0.0,1.0,-999.0,16.0,13.0,Low,10-20 yrs,Low
+Rajesh Thorat,Physics,Assistant Professor,5.0,13.0,106.0,0.0,0.0,0.0,6.0,4.0,1.0,0.0,0.0,0.0,0.0,10.0,119.0,Low,5-10 yrs,Low
+Pooja Naik,MBA,Associate Professor,20.0,12.0,8.0,6.0,0.0,1.0,12.0,4.0,0.0,0.0,1.0,2.0,0.0,17.0,52.0,Low,20+ yrs,Low
+Suvarna Salunkhe,Chemistry,Assistant Professor,31.0,22.0,17.0,12.0,23.0,2.0,14.0,2.0,0.0,0.0,1.0,2.0,0.0,41.0,102.0,Medium,20+ yrs,Low
+Leena Waghmare,MCA,Associate Professor,32.0,14.0,-1.0,7.0,0.0,0.0,9.0,0.0,2.0,0.0,4.0,1.0,11.0,9.0,40.0,Low,20+ yrs,Low
+Archana Shetty,ME,Associate Professor,7.0,11.0,8.0,7.0,49.0,0.0,4.0,4.0,0.0,0.0,0.0,1.0,46.0,57.0,52.0,Low,5-10 yrs,Medium
+Omkar Pandey,Chemistry,Assistant Professor,29.0,9.0,6.0,3.0,7.0,174.0,8.0,8.0,2.0,0.0,0.0,0.0,0.0,197.0,36.0,High,20+ yrs,Low
+Vikram Borkar,IT,Professor,12.0,0.0,9.0,8.0,17.0,8.0,9.0,4.0,1.0,3.0,4.0,1.0,48.0,38.0,17.0,Medium,10-20 yrs,Medium
+Harish Bhat,MCA,Professor,10.0,13.0,11.0,79.0,0.0,5.0,8.0,0.0,0.0,0.0,2.0,0.0,0.0,13.0,206.0,Low,10-20 yrs,Low
+Amit Thakur,Physics,Assistant Professor,22.0,11.0,7.0,6.0,15.0,9.0,0.0,1.0,0.0,0.0,3.0,1.0,39.0,25.0,48.0,Low,20+ yrs,Medium
+Nisha Pandey,IT,Professor,20.0,7.0,4.0,0.0,14.0,16.0,0.0,0.0,1.0,13.0,1.0,0.0,0.0,30.0,11.0,Low,20+ yrs,Low
+Ravi Salunkhe,Humanities,Assistant Professor,2.0,8.0,5.0,3.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,4.0,0.0,1.0,32.0,Low,0-5 yrs,Low
+Bhavna Patel,Humanities,Associate Professor,13.0,11.0,4.0,2.0,23.0,5.0,14.0,0.0,0.0,0.0,1.0,3.0,126.0,42.0,34.0,Low,10-20 yrs,High
+Anjali Chaudhary,ECE,Assistant Professor,1.0,5.0,0.0,0.0,3.0,1.0,0.0,12.0,2.0,1.0,0.0,4.0,953.0,16.0,10.0,Low,0-5 yrs,High
+Bhavna Desai,CSE,Professor,28.0,17.0,11.0,8.0,24.0,10.0,12.0,5.0,1.0,0.0,2.0,0.0,0.0,51.0,72.0,High,20+ yrs,Low
+Sarita Bhosale,EEE,Associate Professor,28.0,16.0,0.0,79.0,18.0,5.0,0.0,42.0,2.0,2.0,2.0,1.0,-999.0,65.0,95.0,High,20+ yrs,Low
+Vikas Dubey,Mathematics,Assistant Professor,9.0,9.0,4.0,5.0,11.0,4.0,10.0,2.0,0.0,1.0,4.0,1.0,42.0,27.0,36.0,Medium,5-10 yrs,Medium
+Hemant Rao,CSE,Professor,23.0,5.0,2.0,2.0,11.0,0.0,5.0,0.0,0.0,2.0,4.0,1.0,0.0,16.0,18.0,Low,20+ yrs,Low
+Arun Chaudhary,CSE,Professor,16.0,8.0,0.0,0.0,0.0,5.0,14.0,9.0,0.0,3.0,1.0,0.0,0.0,28.0,8.0,Low,10-20 yrs,Low
+Sunita Nair,EEE,Assistant Professor,14.0,9.0,5.0,47.0,14.0,0.0,0.0,7.0,0.0,0.0,2.0,0.0,0.0,21.0,122.0,Low,10-20 yrs,Low
+Anjali Waghmare,Chemistry,Assistant Professor,24.0,11.0,4.0,2.0,5.0,9.0,12.0,5.0,2.0,0.0,3.0,1.0,59.0,31.0,34.0,Medium,20+ yrs,High
+Shirish Rao,ECE,Associate Professor,23.0,7.0,3.0,4.0,0.0,3.0,10.0,8.0,1.0,0.0,1.0,1.0,86.0,21.0,28.0,Low,20+ yrs,High
+Meera Nair,Chemistry,Assistant Professor,26.0,8.0,2.0,0.0,12.0,5.0,4.0,9.0,0.0,0.0,3.0,2.0,89.0,30.0,20.0,Medium,20+ yrs,High
+Shobha More,Physics,Assistant Professor,3.0,12.0,5.0,3.0,0.0,0.0,0.0,5.0,1.0,1.0,1.0,0.0,35.0,5.0,40.0,Low,0-5 yrs,Medium
+Bharati Dubey,CE,Assistant Professor,21.0,12.0,5.0,3.0,0.0,3.0,12.0,1.0,0.0,0.0,1.0,0.0,0.0,16.0,40.0,Low,20+ yrs,Low
+Hemant More,ME,Associate Professor,1.0,8.0,16.0,0.0,13.0,2.0,0.0,0.0,3.0,0.0,3.0,1.0,31.0,15.0,24.0,Low,0-5 yrs,Medium
+Sanjay Bhat,Chemistry,Associate Professor,6.0,0.0,0.0,0.0,0.0,11.0,6.0,0.0,0.0,0.0,0.0,1.0,0.0,17.0,0.0,Low,5-10 yrs,Low
+Chitra Patel,EEE,Professor,12.0,4.0,0.0,0.0,10.0,10.0,0.0,0.0,1.0,0.0,2.0,1.0,58.0,20.0,8.0,Low,10-20 yrs,High
+Kavya Bhosale,CE,Assistant Professor,11.0,10.0,1.0,1.0,10.0,0.0,9.0,11.0,1.0,1.0,1.0,0.0,0.0,30.0,24.0,Low,10-20 yrs,Low
+Manisha Shah,Chemistry,Assistant Professor,9.0,7.0,6.0,5.0,9.0,1.0,3.0,2.0,1.0,1.0,0.0,5.0,223.0,15.0,36.0,Low,5-10 yrs,High
+Rajesh Londhe,IT,Professor,11.0,13.0,8.0,9.0,11.0,0.0,89.0,3.0,0.0,2.0,2.0,4.0,191.0,103.0,60.0,High,10-20 yrs,High
+Preeti Agarwal,Chemistry,Assistant Professor,18.0,4.0,0.0,0.0,25.0,9.0,4.0,2.0,0.0,0.0,2.0,4.0,0.0,40.0,4.0,Medium,10-20 yrs,Low
+Anjali Kumar,CE,Associate Professor,15.0,11.0,7.0,0.0,13.0,1.0,2.0,7.0,1.0,0.0,0.0,5.0,189.0,23.0,18.0,Medium,10-20 yrs,High
+Meera Reddy,MBA,Professor,1.0,4.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,2.0,0.0,1.0,9.0,3.0,4.0,Low,0-5 yrs,Low
+Chitra Thorat,CSE,Assistant Professor,5.0,6.0,0.0,0.0,19.0,6.0,2.0,1.0,0.0,0.0,0.0,2.0,707.0,28.0,6.0,Medium,5-10 yrs,High
+Sachin Sawant,CE,Assistant Professor,2.0,8.0,0.0,0.0,8.0,0.0,1.0,0.0,0.0,0.0,1.0,5.0,224.0,9.0,8.0,Low,0-5 yrs,High
+Urmila Agarwal,CE,Assistant Professor,1.0,5.0,0.0,0.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,1.0,298.0,9.0,10.0,Low,0-5 yrs,High
+Jyoti Mehta,CE,Associate Professor,20.0,9.0,3.0,0.0,1.0,0.0,7.0,9.0,1.0,0.0,1.0,2.0,46.0,17.0,12.0,Low,20+ yrs,Medium
+Suresh Iyer,MCA,Professor,21.0,9.0,0.0,2.0,24.0,4.0,7.0,0.0,2.0,3.0,3.0,2.0,100.0,35.0,22.0,Medium,20+ yrs,High
+Urmila Kamble,ECE,Assistant Professor,17.0,17.0,0.0,15.0,6.0,7.0,2.0,0.0,0.0,0.0,0.0,2.0,92.0,15.0,32.0,Low,10-20 yrs,High
+Chitra Bhosale,IT,Professor,1.0,6.0,0.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,2.0,0.0,0.0,3.0,6.0,Low,0-5 yrs,Low
+Nikhil Salunkhe,ME,Assistant Professor,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low,0-5 yrs,Low
+Sunil Mishra,CSE,Associate Professor,4.0,7.0,0.0,0.0,11.0,0.0,6.0,0.0,2.0,1.0,1.0,1.0,0.0,17.0,14.0,Low,0-5 yrs,Low
+Madhuri Gaikwad,Physics,Professor,32.0,24.0,18.0,15.0,11.0,7.0,0.0,7.0,0.0,0.0,0.0,2.0,80.0,25.0,114.0,Low,20+ yrs,High
+Lata Shetty,MBA,Associate Professor,21.0,13.0,13.0,0.0,24.0,10.0,5.0,8.0,2.0,3.0,1.0,0.0,0.0,47.0,26.0,Medium,20+ yrs,Low
+Ganesh Salunkhe,ECE,Professor,5.0,6.0,0.0,0.0,10.0,4.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,14.0,6.0,Low,5-10 yrs,Low
+Rajesh Verma,Humanities,Associate Professor,25.0,20.0,14.0,13.0,19.0,8.0,10.0,9.0,0.0,1.0,0.0,1.0,43.0,46.0,94.0,Medium,20+ yrs,Medium
+Shobha Mishra,EEE,Professor,28.0,18.0,9.0,7.0,7.0,16.0,16.0,0.0,3.0,1.0,1.0,4.0,174.0,39.0,68.0,Low,20+ yrs,High
+Kavya Verma,Chemistry,Associate Professor,4.0,13.0,0.0,39.0,18.0,12.0,13.0,0.0,1.0,1.0,1.0,1.0,66.0,43.0,52.0,Medium,0-5 yrs,High
+Meera Bhatt,MBA,Professor,13.0,5.0,2.0,0.0,41.0,12.0,2.0,0.0,0.0,1.0,2.0,1.0,21.0,55.0,14.0,High,10-20 yrs,Medium
+Shirish Singh,MBA,Assistant Professor,19.0,6.0,5.0,5.0,0.0,0.0,2.0,9.0,1.0,1.0,0.0,1.0,21.0,11.0,32.0,Low,10-20 yrs,Medium
+Shobha Jadhav,ECE,Assistant Professor,24.0,10.0,6.0,3.0,10.0,11.0,12.0,0.0,0.0,2.0,0.0,4.0,147.0,33.0,38.0,Medium,20+ yrs,High
+Amit Mehta,CE,Associate Professor,1.0,6.0,3.0,3.0,10.0,4.0,15.0,1.0,0.0,4.0,0.0,0.0,0.0,30.0,24.0,Medium,0-5 yrs,Low
+Abhijit Bhosale,Chemistry,Associate Professor,25.0,10.0,47.0,0.0,19.0,10.0,5.0,12.0,2.0,1.0,4.0,0.0,0.0,46.0,57.0,Medium,20+ yrs,Low
+Chhaya Chaudhary,MCA,Professor,5.0,8.0,4.0,6.0,3.0,0.0,0.0,5.0,0.0,4.0,0.0,0.0,0.0,8.0,36.0,Low,5-10 yrs,Low
+Bharati Wagh,MBA,Assistant Professor,26.0,16.0,13.0,9.0,16.0,17.0,0.0,1.0,0.0,0.0,1.0,5.0,209.0,34.0,76.0,Medium,20+ yrs,High
+Sanjay Salunkhe,CSE,Associate Professor,21.0,4.0,1.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,1.0,75.0,6.0,10.0,Low,20+ yrs,High
+Naresh Naik,CSE,Assistant Professor,12.0,15.0,0.0,8.0,18.0,6.0,5.0,45.0,1.0,3.0,4.0,0.0,88.0,74.0,23.0,High,10-20 yrs,High
+Kavya Trivedi,MBA,Assistant Professor,27.0,0.0,6.0,26.0,24.0,0.0,3.0,0.0,3.0,1.0,1.0,3.0,126.0,27.0,32.0,Medium,20+ yrs,High
+Sanjay Reddy,IT,Assistant Professor,14.0,11.0,6.0,3.0,10.0,12.0,8.0,13.0,0.0,0.0,0.0,0.0,0.0,43.0,40.0,Medium,10-20 yrs,Low
+Preeti Dubey,ME,Associate Professor,19.0,9.0,1.0,1.0,88.0,0.0,17.0,3.0,2.0,0.0,0.0,0.0,0.0,108.0,22.0,High,10-20 yrs,Low
+Sanjay Patil,CSE,Professor,18.0,12.0,6.0,4.0,15.0,0.0,0.0,7.0,1.0,0.0,5.0,2.0,78.0,22.0,44.0,Low,10-20 yrs,High
+Rekha Borkar,EEE,Assistant Professor,17.0,6.0,4.0,1.0,0.0,2.0,19.0,2.0,0.0,3.0,10.0,1.0,45.0,23.0,22.0,Low,10-20 yrs,Medium
+Leena Salunkhe,CSE,Associate Professor,4.0,12.0,8.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,2.0,2.0,40.0,4.0,20.0,Low,0-5 yrs,Medium
+Usha Shetty,Humanities,Assistant Professor,26.0,11.0,9.0,6.0,0.0,6.0,0.0,8.0,3.0,1.0,0.0,5.0,0.0,14.0,52.0,Low,20+ yrs,Low
+Bhavna Borkar,Physics,Professor,16.0,0.0,2.0,0.0,52.0,11.0,15.0,0.0,0.0,4.0,0.0,3.0,112.0,78.0,2.0,Low,10-20 yrs,High
+Priya Singh,Chemistry,Assistant Professor,19.0,5.0,2.0,2.0,26.0,1.0,4.0,9.0,0.0,0.0,2.0,0.0,0.0,40.0,18.0,Medium,10-20 yrs,Low
+Amit Agarwal,EEE,Assistant Professor,20.0,18.0,11.0,9.0,10.0,0.0,4.0,7.0,0.0,1.0,2.0,1.0,35.0,21.0,76.0,Low,20+ yrs,Medium
+Swati Kamble,EEE,Assistant Professor,8.0,13.0,7.0,5.0,0.0,5.0,1.0,5.0,1.0,0.0,1.0,1.0,41.0,11.0,50.0,Low,5-10 yrs,Medium
+Naresh Mehta,EEE,Professor,27.0,6.0,5.0,0.0,17.0,105.0,0.0,0.0,0.0,2.0,0.0,2.0,77.0,122.0,11.0,Low,20+ yrs,High
+Nitin Saxena,IT,Assistant Professor,21.0,8.0,4.0,39.0,5.0,14.0,0.0,4.0,0.0,0.0,0.0,1.0,26.0,23.0,102.0,Medium,20+ yrs,Medium
+Milind Trivedi,Mathematics,Associate Professor,27.0,15.0,11.0,13.0,13.0,11.0,7.0,1.0,0.0,0.0,0.0,2.0,57.0,32.0,78.0,Medium,20+ yrs,High
+Kedarnath Thorat,CE,Professor,31.0,16.0,12.0,12.0,11.0,0.0,4.0,0.0,1.0,2.0,0.0,4.0,149.0,15.0,80.0,Low,20+ yrs,High
+Priya More,ECE,Professor,8.0,11.0,4.0,0.0,16.0,0.0,0.0,7.0,3.0,0.0,1.0,0.0,0.0,23.0,30.0,Low,5-10 yrs,Low
+Swati Naik,Humanities,Assistant Professor,16.0,14.0,5.0,0.0,0.0,7.0,17.0,6.0,0.0,1.0,1.0,0.0,0.0,30.0,19.0,Low,10-20 yrs,Low
+Tanvi Kamble,ECE,Professor,30.0,11.0,8.0,9.0,16.0,10.0,0.0,5.0,1.0,2.0,0.0,2.0,0.0,31.0,56.0,Medium,20+ yrs,Low
+Leena Patil,CE,Associate Professor,16.5,9.0,4.0,2.0,9.0,2.0,0.0,7.0,2.0,0.0,0.0,2.0,0.0,18.0,30.0,Low,20+ yrs,Low
+Sanjay Tiwari,Chemistry,Assistant Professor,31.0,0.0,-1.0,14.0,5.0,15.0,12.0,2.0,0.0,0.0,2.0,1.0,5.0,34.0,13.0,Medium,20+ yrs,Low
+Krishna Patil,CE,Associate Professor,8.0,6.0,5.0,4.0,3.0,5.0,16.0,4.0,2.0,2.0,2.0,1.0,0.0,28.0,30.0,Medium,5-10 yrs,Low
+Sneha Wagh,MBA,Assistant Professor,31.0,11.0,0.0,6.0,10.0,15.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,25.0,17.0,Low,20+ yrs,Low
+Vinay Saxena,ME,Assistant Professor,3.0,121.0,4.0,6.0,4.0,6.0,3.0,0.0,7.0,0.0,2.0,2.0,28.0,13.0,262.0,Low,0-5 yrs,Medium
+Sachin Salunkhe,MBA,Assistant Professor,3.0,0.0,0.0,0.0,0.0,0.0,6.0,1.0,0.0,0.0,1.0,0.0,0.0,7.0,0.0,Low,0-5 yrs,Low
+Satish Mane,ECE,Assistant Professor,6.0,10.0,5.0,6.0,16.0,3.0,0.0,4.0,3.0,1.0,0.0,2.0,72.0,23.0,42.0,Low,5-10 yrs,High
+Mohan Desai,Physics,Associate Professor,2.0,1.0,0.0,0.0,0.0,4.0,9.0,0.0,0.0,3.0,5.0,1.0,0.0,13.0,1.0,Low,0-5 yrs,Low
+Meera Salunkhe,ME,Assistant Professor,11.0,13.0,10.0,8.0,7.0,10.0,0.0,8.0,0.0,1.0,0.0,2.0,68.0,25.0,62.0,Medium,10-20 yrs,High
+Mohan Shah,Physics,Associate Professor,18.0,10.0,0.0,0.0,0.0,10.0,9.0,2.0,0.0,4.0,2.0,0.0,0.0,21.0,10.0,Medium,10-20 yrs,Low
+Geeta Sharma,EEE,Professor,29.0,19.0,12.0,9.0,14.0,6.0,6.0,7.0,3.0,0.0,1.0,0.0,0.0,33.0,80.0,Medium,20+ yrs,Low
+Vaishali Patel,CE,Assistant Professor,15.0,12.0,5.0,7.0,18.0,0.0,0.0,7.0,1.0,0.0,0.0,1.0,25.0,25.0,48.0,Low,10-20 yrs,Medium
+Prerna Wagh,ECE,Assistant Professor,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low,0-5 yrs,Low
+Aparna Agarwal,Humanities,Associate Professor,24.0,9.0,5.0,4.0,17.0,2.0,9.0,9.0,3.0,0.0,1.0,0.0,0.0,37.0,36.0,Medium,20+ yrs,Low
+Sunita More,MCA,Associate Professor,10.0,9.0,3.0,1.0,0.0,0.0,6.0,4.0,3.0,0.0,0.0,0.0,0.0,10.0,26.0,Low,10-20 yrs,Low
+Ravi Bhat,Mathematics,Associate Professor,11.0,10.0,32.0,3.0,0.0,15.0,5.0,0.0,1.0,2.0,3.0,4.0,172.0,20.0,90.0,Low,10-20 yrs,High
+Ganesh Naik,Mathematics,Assistant Professor,16.5,12.0,8.0,8.0,6.0,6.0,2.0,2.0,1.0,0.0,0.0,0.0,0.0,16.0,56.0,Low,20+ yrs,Low
+Pallavi Thorat,Humanities,Associate Professor,3.0,10.0,0.0,0.0,11.0,3.0,3.0,8.0,0.0,0.0,0.0,2.0,89.0,25.0,10.0,Medium,0-5 yrs,High
+Suvarna Gupta,CSE,Assistant Professor,4.0,1.0,0.0,0.0,12.0,6.0,4.0,3.0,1.0,2.0,1.0,1.0,75.0,25.0,2.0,Medium,0-5 yrs,High
+Usha Kulkarni,Physics,Assistant Professor,31.0,7.0,5.0,5.0,23.0,3.0,10.0,4.0,3.0,0.0,2.0,0.0,0.0,40.0,34.0,Medium,20+ yrs,Low
+Sudha Mishra,IT,Assistant Professor,17.0,14.0,-1.0,8.0,16.0,9.0,4.0,7.0,0.0,1.0,0.0,3.0,0.0,36.0,42.0,Medium,10-20 yrs,Low
+Yash Trivedi,IT,Associate Professor,30.0,18.0,13.0,0.0,5.0,8.0,5.0,4.0,1.0,2.0,2.0,1.0,27.0,22.0,31.0,Medium,20+ yrs,Medium
+Nitin Deshpande,CE,Professor,9.0,14.0,65.0,8.0,0.0,13.0,14.0,14.0,0.0,0.0,3.0,5.0,191.0,41.0,174.0,Medium,5-10 yrs,High
+Usha Kamble,ME,Assistant Professor,12.0,5.0,1.0,0.0,5.0,6.0,13.0,0.0,1.0,0.0,3.0,1.0,16.0,24.0,12.0,Medium,10-20 yrs,Low
+Anita Patel,MBA,Associate Professor,16.5,10.0,7.0,4.0,15.0,3.0,17.0,3.0,2.0,0.0,0.0,2.0,85.0,38.0,42.0,Medium,20+ yrs,High
+Madhuri Waghmare,Mathematics,Associate Professor,27.0,0.0,6.0,4.0,17.0,9.0,6.0,4.0,0.0,0.0,3.0,3.0,120.0,36.0,10.0,Medium,20+ yrs,High
+Preeti Bhatt,ME,Associate Professor,28.0,8.0,5.0,4.0,6.0,14.0,13.0,1.0,2.0,8.0,1.0,0.0,0.0,34.0,34.0,Medium,20+ yrs,Low
+Rekha Patil,MBA,Assistant Professor,20.0,14.0,77.0,12.0,5.0,5.0,17.0,5.0,2.0,2.0,0.0,5.0,0.0,32.0,206.0,Medium,20+ yrs,Low
+Vikas Pillai,ECE,Assistant Professor,22.0,20.0,11.0,11.0,28.0,7.0,8.0,1.0,0.0,0.0,0.0,0.0,74.0,44.0,84.0,Medium,20+ yrs,High
+Rajesh Patel,ME,Assistant Professor,6.0,142.0,0.0,4.0,6.0,8.0,9.0,3.0,1.0,0.0,0.0,2.0,0.0,26.0,146.0,Medium,5-10 yrs,Low
+Satish Kamath,Physics,Assistant Professor,5.0,12.0,2.0,5.0,3.0,9.0,15.0,0.0,1.0,2.0,0.0,0.0,0.0,27.0,38.0,Medium,5-10 yrs,Low
+Vinay Shetty,Physics,Associate Professor,28.0,12.0,6.0,0.0,19.0,8.0,21.0,7.0,0.0,0.0,0.0,0.0,0.0,55.0,18.0,High,20+ yrs,Low
+Chhaya Shetty,ME,Associate Professor,29.0,19.0,14.0,11.0,12.0,2.0,0.0,2.0,3.0,1.0,0.0,0.0,0.0,16.0,88.0,Low,20+ yrs,Low
+Aparna Trivedi,MCA,Associate Professor,30.0,10.0,6.0,5.0,0.0,7.0,0.0,0.0,2.0,2.0,1.0,1.0,29.0,7.0,42.0,Low,20+ yrs,Medium
+Seema Wagh,CE,Professor,26.0,11.0,0.0,7.0,0.0,9.0,0.0,3.0,1.0,0.0,4.0,1.0,6.0,12.0,18.0,Low,20+ yrs,Low
+Dhananjay Pillai,ME,Associate Professor,26.0,17.0,14.0,9.0,0.0,3.0,6.0,8.0,0.0,0.0,0.0,0.0,24.0,17.0,80.0,Low,20+ yrs,Medium
+Sunil Pawar,EEE,Assistant Professor,11.0,0.0,4.0,0.0,12.0,6.0,5.0,2.0,0.0,0.0,20.0,1.0,19.0,25.0,4.0,Medium,10-20 yrs,Low
+Rajesh Nair,ME,Professor,26.0,10.0,5.0,1.0,5.0,24.0,17.0,0.0,1.0,0.0,0.0,0.0,67.0,46.0,32.0,Low,20+ yrs,High
+Aryan Desai,CSE,Assistant Professor,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Low,0-5 yrs,Low
+Madhuri Kamble,ECE,Assistant Professor,13.0,6.0,3.0,0.0,24.0,0.0,13.0,0.0,0.0,0.0,1.0,4.0,136.0,37.0,18.0,Medium,10-20 yrs,High
+Radha Agarwal,ME,Assistant Professor,32.0,13.0,11.0,0.0,0.0,14.0,3.0,3.0,0.0,14.0,2.0,1.0,0.0,20.0,24.0,Low,20+ yrs,Low
+Ganesh Dubey,CSE,Professor,19.0,15.0,9.0,11.0,12.0,1.0,13.0,0.0,3.0,0.0,0.0,0.0,0.0,26.0,70.0,Medium,10-20 yrs,Low
+Sunita Reddy,Chemistry,Associate Professor,14.0,18.0,11.0,11.0,16.0,12.0,18.0,3.0,7.0,1.0,0.0,1.0,16.0,49.0,80.0,Medium,10-20 yrs,Low
+Rekha Iyer,ME,Associate Professor,30.0,0.0,8.0,9.0,0.0,7.0,0.0,3.0,2.0,3.0,1.0,4.0,1189.0,10.0,17.0,Low,20+ yrs,High
+Santosh Dubey,Chemistry,Associate Professor,31.0,16.0,10.0,0.0,0.0,2.0,6.0,9.0,2.0,3.0,0.0,0.0,0.0,17.0,26.0,Low,20+ yrs,Low
+Sarita Salunkhe,EEE,Professor,2.0,999.0,0.0,0.0,8.0,0.0,0.0,4.0,2.0,4.0,1.0,1.0,0.0,12.0,1998.0,Low,0-5 yrs,Low
+Amit Gupta,MBA,Associate Professor,2.0,3.0,0.0,0.0,8.0,0.0,3.0,0.0,0.0,1.0,1.0,3.0,0.0,11.0,3.0,Low,0-5 yrs,Low
+Pallavi Agarwal,CSE,Professor,17.0,14.0,6.0,0.0,0.0,6.0,8.0,9.0,1.0,2.0,0.0,0.0,0.0,23.0,20.0,Medium,10-20 yrs,Low
+Harish Sharma,IT,Assistant Professor,7.0,16.0,6.0,4.0,74.0,0.0,0.0,2.0,3.0,0.0,2.0,0.0,0.0,76.0,52.0,Low,5-10 yrs,Low
+Kavya Kumar,MBA,Associate Professor,13.0,12.0,8.0,3.0,0.0,3.0,5.0,5.0,1.0,1.0,0.0,0.0,0.0,13.0,46.0,Low,10-20 yrs,Low
+Sanjay Kulkarni,Humanities,Assistant Professor,10.0,12.0,6.0,9.0,3.0,0.0,3.0,0.0,0.0,0.0,1.0,0.0,0.0,6.0,54.0,Low,10-20 yrs,Low
+Krishna Reddy,EEE,Assistant Professor,12.0,18.0,11.0,0.0,14.0,12.0,8.0,0.0,1.0,2.0,0.0,0.0,0.0,34.0,29.0,Medium,10-20 yrs,Low
+Ramesh Bhat,EEE,Professor,8.0,0.0,0.0,0.0,0.0,0.0,2.0,10.0,0.0,2.0,0.0,1.0,40.0,12.0,0.0,Low,5-10 yrs,Medium
+Sanjay Sharma,Humanities,Assistant Professor,29.0,15.0,12.0,8.0,34.0,7.0,0.0,2.0,1.0,13.0,0.0,1.0,5.0,43.0,70.0,Low,20+ yrs,Low
+Satish Shah,IT,Associate Professor,11.0,10.0,1.0,2.0,17.0,0.0,5.0,3.0,0.0,0.0,0.0,1.0,0.0,25.0,26.0,Medium,10-20 yrs,Low
+Satish Shetty,Physics,Associate Professor,16.5,11.0,7.0,6.0,0.0,8.0,3.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,48.0,Low,20+ yrs,Low
+Swati Saxena,MBA,Assistant Professor,17.0,15.0,12.0,9.0,0.0,29.0,6.0,8.0,0.0,0.0,0.0,4.0,180.0,43.0,72.0,Medium,10-20 yrs,High
+Suvarna Gaikwad,Physics,Professor,16.0,10.0,0.0,6.0,0.0,16.0,16.0,0.0,1.0,1.0,2.0,2.0,0.0,32.0,16.0,Low,10-20 yrs,Low
+Divya Nair,Mathematics,Associate Professor,14.0,0.0,4.0,1.0,9.0,4.0,2.0,0.0,2.0,0.0,9.0,1.0,0.0,15.0,5.0,Low,10-20 yrs,Low
+Manoj Nair,CE,Professor,10.0,12.0,10.0,4.0,14.0,8.0,6.0,5.0,1.0,2.0,0.0,0.0,0.0,33.0,52.0,Medium,10-20 yrs,Low
+Vaishali Londhe,MCA,Assistant Professor,25.0,16.0,10.0,10.0,16.0,13.0,2.0,6.0,1.0,0.0,1.0,0.0,0.0,37.0,72.0,Medium,20+ yrs,Low
+Arun Waghmare,IT,Associate Professor,10.0,8.0,0.0,16.0,16.0,4.0,0.0,2.0,3.0,2.0,1.0,2.0,98.0,22.0,48.0,Medium,10-20 yrs,High
+Sunil Pandey,MBA,Associate Professor,7.0,6.0,3.0,0.0,7.0,12.0,16.0,0.0,0.0,2.0,2.0,0.0,0.0,35.0,9.0,Low,5-10 yrs,Low
+Sachin Tiwari,MBA,Associate Professor,6.0,5.0,0.0,0.0,0.0,0.0,12.0,2.0,0.0,2.0,2.0,0.0,0.0,14.0,10.0,Low,5-10 yrs,Low
+Jyoti Mane,CE,Professor,27.0,14.0,10.0,39.0,11.0,0.0,6.0,3.0,2.0,0.0,2.0,0.0,0.0,20.0,126.0,Low,20+ yrs,Low
+Manoj Chavan,CE,Assistant Professor,3.0,6.0,0.0,2.0,24.0,4.0,5.0,0.0,0.0,2.0,2.0,0.0,0.0,33.0,8.0,Medium,0-5 yrs,Low
+Satish Wagh,CE,Associate Professor,27.0,11.0,9.0,8.0,13.0,4.0,2.0,5.0,0.0,1.0,1.0,0.0,0.0,24.0,56.0,Medium,20+ yrs,Low
+Rajesh Kamble,Humanities,Associate Professor,28.0,17.0,11.0,9.0,12.0,11.0,59.0,6.0,1.0,3.0,0.0,0.0,0.0,88.0,74.0,High,20+ yrs,Low
+Vinay Bhosale,EEE,Assistant Professor,2.0,0.0,2.0,1.0,0.0,1.0,7.0,0.0,2.0,0.0,0.0,0.0,0.0,8.0,3.0,Low,0-5 yrs,Low
+Ganesh Waghmare,Mathematics,Associate Professor,11.0,10.0,6.0,6.0,17.0,2.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,23.0,44.0,Medium,10-20 yrs,Low
+Abhijit Kale,MCA,Associate Professor,7.0,4.0,0.0,0.0,2.0,8.0,0.0,3.0,0.0,2.0,3.0,0.0,85.0,13.0,8.0,Low,5-10 yrs,High
+Vaishali Nair,CSE,Assistant Professor,14.0,11.0,2.0,0.0,24.0,4.0,2.0,7.0,0.0,0.0,0.0,0.0,-999.0,37.0,13.0,Medium,10-20 yrs,Low
+Priya Patel,ME,Assistant Professor,12.0,0.0,30.0,0.0,0.0,9.0,0.0,7.0,0.0,1.0,0.0,4.0,156.0,16.0,30.0,Low,10-20 yrs,High
+Chitra Suryawanshi,CSE,Associate Professor,21.0,16.0,0.0,7.0,20.0,0.0,19.0,4.0,0.0,1.0,0.0,0.0,0.0,43.0,23.0,Low,20+ yrs,Low
+Amit Pawar,Humanities,Professor,16.5,5.0,1.0,0.0,0.0,0.0,11.0,2.0,3.0,1.0,1.0,2.0,0.0,13.0,12.0,Low,20+ yrs,Low
+Vikram Mane,MCA,Professor,16.5,9.0,4.0,5.0,23.0,7.0,0.0,5.0,0.0,3.0,3.0,0.0,104.0,35.0,36.0,Low,20+ yrs,High
+Anjali Verma,Physics,Assistant Professor,1.0,13.0,9.0,0.0,0.0,3.0,0.0,4.0,3.0,0.0,2.0,4.0,150.0,7.0,22.0,Low,0-5 yrs,High
+Ramesh Reddy,EEE,Professor,13.0,0.0,11.0,8.0,9.0,0.0,12.0,1.0,3.0,2.0,4.0,0.0,0.0,22.0,19.0,Low,10-20 yrs,Low
+Manisha Rao,Chemistry,Associate Professor,18.0,11.0,19.0,4.0,18.0,5.0,8.0,7.0,0.0,0.0,0.0,2.0,92.0,38.0,68.0,Medium,10-20 yrs,High
+Aparna Mane,Mathematics,Associate Professor,11.0,10.0,2.0,2.0,14.0,4.0,6.0,0.0,0.0,1.0,0.0,5.0,207.0,24.0,28.0,Low,10-20 yrs,High
+Usha Thorat,MCA,Assistant Professor,1.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,0.0,0.0,0.0,1.0,57.0,9.0,0.0,Low,0-5 yrs,High
+Vinay Singh,MCA,Assistant Professor,23.0,13.0,12.0,6.0,21.0,4.0,9.0,0.0,3.0,0.0,2.0,1.0,5.0,34.0,62.0,Medium,20+ yrs,Low
+Manoj Rao,IT,Assistant Professor,11.0,9.0,7.0,1.0,203.0,37.0,0.0,5.0,2.0,1.0,0.0,1.0,203.0,245.0,34.0,High,10-20 yrs,High
+Ganesh Wagh,EEE,Assistant Professor,20.0,6.0,2.0,2.0,9.0,5.0,15.0,6.0,29.0,2.0,2.0,3.0,116.0,35.0,20.0,Medium,20+ yrs,High
+Suvarna Londhe,EEE,Professor,2.0,10.0,4.0,1.0,5.0,0.0,0.0,0.0,2.0,2.0,2.0,2.0,0.0,5.0,30.0,Low,0-5 yrs,Low
+Vinay Reddy,EEE,Professor,12.0,10.0,0.0,3.0,0.0,0.0,0.0,0.0,3.0,2.0,0.0,2.0,73.0,0.0,26.0,Low,10-20 yrs,High
+Divya Rao,IT,Assistant Professor,9.0,12.0,3.0,3.0,4.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,4.0,36.0,Low,5-10 yrs,Low
+Krishna Shah,EEE,Assistant Professor,30.0,12.0,7.0,2.0,20.0,7.0,17.0,4.0,2.0,0.0,0.0,3.0,140.0,48.0,42.0,Medium,20+ yrs,High
+Rohini Trivedi,CE,Associate Professor,13.0,0.0,4.0,4.0,12.0,4.0,9.0,7.0,0.0,0.0,0.0,0.0,0.0,32.0,8.0,Medium,10-20 yrs,Low
+Abhijit Patil,CE,Assistant Professor,7.0,0.0,0.0,0.0,1.0,4.0,0.0,6.0,0.0,0.0,1.0,1.0,51.0,11.0,0.0,Low,5-10 yrs,High
+Tushar Gaikwad,Mathematics,Associate Professor,16.0,6.0,0.0,1.0,0.0,7.0,7.0,0.0,7.0,2.0,2.0,2.0,0.0,14.0,7.0,Low,10-20 yrs,Low
+Vrushali Shinde,CSE,Assistant Professor,19.0,7.0,5.0,3.0,4.0,7.0,10.0,7.0,0.0,0.0,1.0,0.0,36.0,28.0,30.0,Medium,10-20 yrs,Medium
+Bharati Mane,MCA,Assistant Professor,18.0,13.0,7.0,2.0,0.0,4.0,2.0,0.0,0.0,0.0,3.0,0.0,0.0,6.0,44.0,Low,10-20 yrs,Low
+Chhaya Bhatt,ME,Assistant Professor,13.0,6.0,2.0,0.0,21.0,11.0,4.0,0.0,1.0,0.0,1.0,0.0,0.0,36.0,16.0,Medium,10-20 yrs,Low
+Pallavi Shinde,Physics,Associate Professor,9.0,2.0,0.0,0.0,17.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,17.0,2.0,Low,5-10 yrs,Low
+Geeta Agarwal,MBA,Assistant Professor,8.0,14.0,10.0,12.0,18.0,5.0,0.0,10.0,0.0,1.0,2.0,0.0,0.0,33.0,72.0,Medium,5-10 yrs,Low
+Sneha Waghmare,Mathematics,Professor,11.0,0.0,7.0,4.0,13.0,3.0,9.0,10.0,0.0,0.0,0.0,0.0,0.0,35.0,11.0,Medium,10-20 yrs,Low
+Kiran More,EEE,Assistant Professor,19.0,7.0,5.0,4.0,2.0,8.0,8.0,4.0,1.0,0.0,0.0,4.0,185.0,22.0,32.0,Medium,10-20 yrs,High
+Deepak Bhatt,CSE,Associate Professor,27.0,14.0,0.0,12.0,33.0,7.0,10.0,0.0,2.0,0.0,5.0,0.0,0.0,50.0,26.0,Medium,20+ yrs,Low
+Santosh Londhe,ECE,Associate Professor,6.0,999.0,9.0,0.0,21.0,6.0,59.0,2.0,0.0,0.0,2.0,2.0,82.0,88.0,1008.0,High,5-10 yrs,High
+Amit Saxena,EEE,Professor,1.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,2.0,0.0,0.0,4.0,1093.0,4.0,0.0,Low,0-5 yrs,High
+Satish Suryawanshi,CSE,Assistant Professor,32.0,16.0,12.0,12.0,21.0,20.0,11.0,6.0,0.0,0.0,2.0,0.0,0.0,58.0,80.0,High,20+ yrs,Low
+Urmila Verma,EEE,Assistant Professor,16.5,115.0,0.0,2.0,12.0,0.0,13.0,13.0,2.0,0.0,2.0,0.0,0.0,38.0,117.0,Medium,20+ yrs,Low
+Vaishali Dubey,IT,Assistant Professor,23.0,6.0,5.0,0.0,14.0,10.0,7.0,2.0,1.0,0.0,0.0,1.0,59.0,33.0,22.0,Medium,20+ yrs,High
+Sachin Mehta,EEE,Associate Professor,10.0,5.0,2.0,0.0,0.0,14.0,20.0,0.0,2.0,1.0,3.0,2.0,64.0,34.0,7.0,Medium,10-20 yrs,High
+Deepak Nair,Humanities,Assistant Professor,9.0,11.0,0.0,4.0,13.0,4.0,6.0,3.0,0.0,0.0,0.0,2.0,65.0,26.0,15.0,Medium,5-10 yrs,High
+Amit Shah,Mathematics,Assistant Professor,20.0,17.0,11.0,11.0,16.0,20.0,2.0,1.0,0.0,2.0,0.0,0.0,44.0,39.0,78.0,Medium,20+ yrs,Medium
+Nitin Thorat,MBA,Professor,21.0,11.0,8.0,2.0,14.0,2.0,9.0,0.0,0.0,2.0,0.0,3.0,0.0,25.0,42.0,Medium,20+ yrs,Low
+Ramesh Waghmare,IT,Assistant Professor,1.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,12.0,Low,0-5 yrs,Low
+Aparna Gupta,Mathematics,Associate Professor,17.0,100.0,0.0,3.0,100.0,9.0,3.0,0.0,0.0,3.0,0.0,0.0,0.0,112.0,103.0,Low,10-20 yrs,Low
+Archana Bhat,Chemistry,Assistant Professor,27.0,9.0,7.0,5.0,3.0,13.0,0.0,5.0,0.0,0.0,0.0,3.0,131.0,21.0,42.0,Low,20+ yrs,High
+Mohan Kulkarni,Chemistry,Assistant Professor,29.0,19.0,0.0,8.0,5.0,6.0,10.0,8.0,1.0,0.0,3.0,5.0,0.0,29.0,27.0,Medium,20+ yrs,Low
+Vikas Londhe,ECE,Associate Professor,29.0,11.0,9.0,8.0,19.0,10.0,9.0,4.0,1.0,0.0,1.0,3.0,142.0,42.0,56.0,Medium,20+ yrs,High
+Sarita Tiwari,EEE,Assistant Professor,24.0,4.0,0.0,0.0,32.0,9.0,0.0,2.0,1.0,0.0,0.0,2.0,98.0,43.0,4.0,Low,20+ yrs,High
+Suvarna Jadhav,Humanities,Assistant Professor,13.0,12.0,8.0,11.0,15.0,6.0,10.0,5.0,0.0,1.0,1.0,0.0,0.0,36.0,62.0,Medium,10-20 yrs,Low
+Sneha Saxena,ME,Associate Professor,16.5,13.0,11.0,8.0,13.0,4.0,12.0,5.0,0.0,3.0,0.0,1.0,38.0,34.0,64.0,Medium,20+ yrs,Medium
+Naresh Shah,MBA,Associate Professor,10.0,999.0,0.0,0.0,11.0,2.0,14.0,0.0,0.0,2.0,0.0,0.0,0.0,27.0,999.0,Low,10-20 yrs,Low
+Amit More,ECE,Assistant Professor,10.0,4.0,0.0,0.0,145.0,7.0,0.0,2.0,0.0,22.0,0.0,5.0,187.0,154.0,8.0,High,10-20 yrs,High
+Chitra Verma,EEE,Associate Professor,20.0,0.0,4.0,2.0,31.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,143.0,33.0,6.0,Low,20+ yrs,High
+Preeti Wagh,Chemistry,Professor,16.5,17.0,16.0,11.0,12.0,11.0,10.0,0.0,1.0,1.0,0.0,1.0,75.0,33.0,88.0,Medium,20+ yrs,High
+Ravi Nair,Mathematics,Associate Professor,22.0,15.0,8.0,9.0,4.0,29.0,3.0,9.0,3.0,1.0,0.0,2.0,96.0,45.0,64.0,Medium,20+ yrs,High
+Sanjay Londhe,MCA,Associate Professor,30.0,21.0,0.0,10.0,25.0,7.0,7.0,2.0,0.0,0.0,1.0,0.0,0.0,41.0,31.0,Medium,20+ yrs,Low
+Omkar Patel,Humanities,Assistant Professor,21.0,17.0,12.0,6.0,4.0,9.0,18.0,7.0,3.0,4.0,0.0,1.0,5.0,38.0,70.0,Medium,20+ yrs,Low
+Lata Chaudhary,MCA,Assistant Professor,27.0,17.0,13.0,10.0,3.0,7.0,4.0,12.0,0.0,0.0,2.0,1.0,30.0,26.0,80.0,Medium,20+ yrs,Medium
+Aparna Bhatt,Physics,Assistant Professor,25.0,4.0,0.0,0.0,6.0,8.0,12.0,8.0,0.0,3.0,0.0,0.0,0.0,34.0,8.0,Medium,20+ yrs,Low
+Rohini Londhe,Mathematics,Assistant Professor,5.0,0.0,0.0,0.0,0.0,3.0,16.0,2.0,2.0,2.0,0.0,0.0,0.0,21.0,0.0,Medium,5-10 yrs,Low
+Sunita Borkar,Mathematics,Assistant Professor,6.0,12.0,5.0,0.0,17.0,1.0,0.0,0.0,2.0,3.0,1.0,2.0,0.0,18.0,34.0,Low,5-10 yrs,Low
+Manoj Pandey,IT,Professor,32.0,10.0,15.0,0.0,12.0,9.0,2.0,3.0,2.0,0.0,0.0,0.0,0.0,26.0,50.0,Medium,20+ yrs,Low
+Mahesh Rao,EEE,Associate Professor,27.0,14.0,6.0,6.0,12.0,0.0,8.0,2.0,1.0,0.0,4.0,4.0,131.0,22.0,52.0,Medium,20+ yrs,High
+Divya Londhe,MBA,Associate Professor,12.0,10.0,4.0,4.0,5.0,8.0,5.0,0.0,0.0,2.0,3.0,5.0,188.0,18.0,36.0,Low,10-20 yrs,High
+Mohan More,MBA,Professor,32.0,11.0,6.0,8.0,0.0,8.0,0.0,3.0,1.0,2.0,5.0,2.0,50.0,11.0,50.0,Low,20+ yrs,Medium
+Sunita Gaikwad,CSE,Assistant Professor,22.0,10.0,36.0,4.0,39.0,9.0,9.0,5.0,1.0,2.0,0.0,2.0,68.0,62.0,100.0,High,20+ yrs,High
+Sarita More,Physics,Assistant Professor,7.0,999.0,6.0,14.0,0.0,70.0,4.0,1.0,1.0,0.0,0.0,1.0,59.0,75.0,2038.0,Low,5-10 yrs,High
+Sanjay Dubey,EEE,Associate Professor,11.0,12.0,9.0,7.0,8.0,8.0,6.0,7.0,1.0,0.0,4.0,2.0,0.0,29.0,56.0,Medium,10-20 yrs,Low
+Sunita Desai,ECE,Associate Professor,19.0,11.0,10.0,6.0,14.0,8.0,5.0,2.0,0.0,0.0,3.0,5.0,213.0,29.0,54.0,Medium,10-20 yrs,High
+Vrushali Wagh,Mathematics,Assistant Professor,4.0,8.0,3.0,3.0,10.0,8.0,18.0,4.0,0.0,1.0,15.0,1.0,305.0,40.0,28.0,Medium,0-5 yrs,High
+Rekha Reddy,EEE,Associate Professor,4.0,11.0,7.0,8.0,0.0,13.0,0.0,4.0,0.0,3.0,5.0,1.0,0.0,17.0,52.0,Low,0-5 yrs,Low
+Shirish Sawant,MBA,Professor,28.0,13.0,10.0,9.0,31.0,0.0,15.0,0.0,0.0,0.0,0.0,2.0,80.0,46.0,64.0,Medium,20+ yrs,High
+Krishna Kumar,CE,Assistant Professor,26.0,11.0,0.0,4.0,0.0,0.0,2.0,3.0,0.0,1.0,0.0,2.0,71.0,5.0,15.0,Low,20+ yrs,High
+Pramod Iyer,ME,Associate Professor,24.0,12.0,6.0,7.0,12.0,3.0,0.0,50.0,0.0,4.0,3.0,4.0,148.0,65.0,50.0,Low,20+ yrs,High
+Milind Jadhav,IT,Assistant Professor,5.0,10.0,8.0,47.0,0.0,4.0,0.0,2.0,2.0,2.0,0.0,2.0,79.0,6.0,130.0,Low,5-10 yrs,High
+Ravi More,CE,Assistant Professor,4.0,0.0,9.0,7.0,12.0,8.0,7.0,0.0,1.0,1.0,0.0,0.0,0.0,27.0,16.0,Medium,0-5 yrs,Low
+Sachin Reddy,CE,Associate Professor,25.0,16.0,8.0,4.0,24.0,9.0,6.0,10.0,2.0,1.0,0.0,1.0,56.0,49.0,56.0,Medium,20+ yrs,High
+Shirish Salunkhe,EEE,Associate Professor,15.0,14.0,7.0,5.0,22.0,8.0,6.0,3.0,0.0,1.0,4.0,0.0,0.0,39.0,52.0,Medium,10-20 yrs,Low
+Nilesh Jadhav,CE,Professor,23.0,7.0,32.0,0.0,0.0,8.0,13.0,0.0,0.0,0.0,0.0,1.0,36.0,21.0,39.0,Low,20+ yrs,Medium
+Jyoti Londhe,Mathematics,Professor,24.0,13.0,9.0,7.0,3.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0,3.0,58.0,Low,20+ yrs,Low
+Ganesh Thakur,CE,Associate Professor,9.0,6.0,1.0,2.0,5.0,11.0,5.0,2.0,0.0,1.0,0.0,5.0,198.0,23.0,18.0,Medium,5-10 yrs,High
+Kiran Pandey,CSE,Professor,20.0,14.0,8.0,7.0,15.0,0.0,5.0,8.0,16.0,0.0,4.0,4.0,137.0,28.0,58.0,Low,20+ yrs,High
+Smita Patel,Mathematics,Assistant Professor,10.0,5.0,1.0,1.0,4.0,5.0,12.0,0.0,1.0,0.0,4.0,1.0,53.0,21.0,14.0,Medium,10-20 yrs,High
+Priya Wagh,Mathematics,Associate Professor,8.0,12.0,0.0,4.0,0.0,3.0,14.0,5.0,0.0,0.0,0.0,1.0,7.0,22.0,16.0,Medium,5-10 yrs,Low
+Dhananjay Naik,MCA,Assistant Professor,9.0,6.0,3.0,0.0,33.0,2.0,9.0,0.0,0.0,2.0,0.0,0.0,0.0,44.0,18.0,Medium,5-10 yrs,Low
+Archana Thorat,ME,Assistant Professor,29.0,11.0,8.0,3.0,9.0,0.0,12.0,0.0,0.0,0.0,2.0,0.0,0.0,21.0,44.0,Low,20+ yrs,Low
+Harish Waghmare,MBA,Professor,9.0,10.0,5.0,3.0,3.0,5.0,0.0,0.0,0.0,4.0,1.0,3.0,114.0,8.0,36.0,Low,5-10 yrs,High
+Rohini Sharma,CSE,Assistant Professor,26.0,12.0,8.0,56.0,10.0,13.0,22.0,2.0,0.0,0.0,0.0,1.0,0.0,47.0,152.0,Medium,20+ yrs,Low
+Hemant Bhat,Mathematics,Assistant Professor,9.0,11.0,0.0,5.0,0.0,7.0,11.0,2.0,0.0,2.0,2.0,3.0,141.0,20.0,16.0,Low,5-10 yrs,High
+Swati Pawar,MCA,Assistant Professor,15.0,12.0,9.0,7.0,34.0,3.0,13.0,5.0,2.0,0.0,0.0,1.0,46.0,55.0,56.0,High,10-20 yrs,Medium
+Ashok Waghmare,Mathematics,Assistant Professor,19.0,0.0,8.0,5.0,19.0,12.0,12.0,7.0,0.0,2.0,2.0,0.0,0.0,50.0,13.0,Medium,10-20 yrs,Low
+Arun Reddy,MCA,Associate Professor,25.0,16.0,15.0,0.0,21.0,11.0,6.0,2.0,1.0,2.0,0.0,3.0,1091.0,40.0,31.0,Medium,20+ yrs,High
+Rahul Pillai,MBA,Professor,8.0,6.0,4.0,0.0,18.0,3.0,8.0,2.0,2.0,2.0,0.0,2.0,45.0,31.0,20.0,Medium,5-10 yrs,Medium
+Yash More,CE,Associate Professor,21.0,11.0,6.0,4.0,0.0,3.0,0.0,4.0,3.0,0.0,2.0,2.0,95.0,7.0,42.0,Low,20+ yrs,High
+Venkat Thorat,Humanities,Professor,6.0,6.0,2.0,3.0,0.0,11.0,19.0,6.0,0.0,0.0,0.0,3.0,120.0,36.0,22.0,Medium,5-10 yrs,High
+Sanjay Shah,EEE,Professor,16.5,3.0,0.0,0.0,0.0,1.0,3.0,9.0,0.0,0.0,0.0,0.0,0.0,13.0,6.0,Low,20+ yrs,Low
+Sudha Desai,Chemistry,Assistant Professor,11.0,12.0,7.0,7.0,15.0,3.0,2.0,0.0,0.0,3.0,1.0,2.0,69.0,20.0,52.0,Low,10-20 yrs,High
+Seema Thorat,ME,Associate Professor,9.0,5.0,0.0,0.0,0.0,15.0,4.0,0.0,0.0,0.0,0.0,3.0,125.0,19.0,10.0,Low,5-10 yrs,High
+Leena Chavan,Physics,Assistant Professor,9.0,14.0,10.0,9.0,1.0,32.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,38.0,66.0,Low,5-10 yrs,Low
+Abhijit Salunkhe,Chemistry,Professor,26.0,16.0,0.0,0.0,6.0,9.0,8.0,3.0,1.0,0.0,1.0,2.0,526.0,26.0,16.0,Medium,20+ yrs,High
+Abhijit Iyer,EEE,Assistant Professor,30.0,13.0,12.0,8.0,27.0,14.0,1.0,0.0,0.0,0.0,1.0,2.0,68.0,42.0,66.0,Low,20+ yrs,High
+Lata Iyer,MCA,Assistant Professor,9.0,8.0,4.0,3.0,0.0,7.0,0.0,4.0,0.0,1.0,2.0,3.0,104.0,11.0,30.0,Low,5-10 yrs,High
+Bhavna Verma,EEE,Professor,3.0,13.0,9.0,7.0,9.0,0.0,1.0,2.0,0.0,12.0,0.0,2.0,70.0,12.0,58.0,Low,0-5 yrs,High
+Vikram Iyer,Physics,Associate Professor,26.0,12.0,9.0,0.0,1.0,8.0,13.0,0.0,0.0,0.0,0.0,2.0,69.0,22.0,21.0,Medium,20+ yrs,High
+Naresh Trivedi,EEE,Associate Professor,13.0,14.0,93.0,8.0,5.0,4.0,13.0,0.0,0.0,0.0,3.0,3.0,108.0,22.0,230.0,Medium,10-20 yrs,High
+Rohini Saxena,ME,Professor,2.0,10.0,7.0,6.0,16.0,0.0,97.0,4.0,0.0,0.0,2.0,1.0,48.0,117.0,46.0,High,0-5 yrs,Medium
+Bhavna Deshpande,Chemistry,Assistant Professor,5.0,8.0,1.0,0.0,14.0,0.0,1.0,12.0,0.0,0.0,0.0,2.0,93.0,27.0,18.0,Low,5-10 yrs,High
+Divya Patel,Physics,Assistant Professor,26.0,14.0,7.0,7.0,15.0,11.0,5.0,8.0,3.0,0.0,0.0,0.0,57.0,39.0,56.0,Medium,20+ yrs,High
+Bhavna Jadhav,Chemistry,Assistant Professor,2.0,47.0,4.0,0.0,5.0,3.0,6.0,5.0,0.0,3.0,0.0,1.0,66.0,19.0,102.0,Low,0-5 yrs,High
+Lata Waghmare,Chemistry,Associate Professor,30.0,10.0,5.0,6.0,6.0,16.0,22.0,4.0,0.0,0.0,0.0,2.0,34.0,48.0,42.0,Medium,20+ yrs,Medium
+Pooja Reddy,ME,Assistant Professor,16.5,8.0,3.0,0.0,16.0,14.0,4.0,5.0,1.0,2.0,4.0,1.0,47.0,39.0,11.0,Medium,20+ yrs,Medium
+Nilesh Kulkarni,Chemistry,Assistant Professor,15.0,0.0,3.0,0.0,18.0,10.0,3.0,2.0,0.0,2.0,1.0,0.0,0.0,33.0,3.0,Medium,10-20 yrs,Low
+Rahul Kamble,ME,Assistant Professor,22.0,0.0,3.0,2.0,14.0,9.0,8.0,4.0,3.0,1.0,0.0,3.0,106.0,35.0,5.0,Medium,20+ yrs,High
+Tanvi Patil,CSE,Assistant Professor,15.0,9.0,2.0,2.0,7.0,0.0,7.0,0.0,1.0,0.0,0.0,2.0,75.0,14.0,26.0,Low,10-20 yrs,High
+Lata Trivedi,Chemistry,Assistant Professor,27.0,15.0,10.0,7.0,0.0,1.0,0.0,2.0,0.0,1.0,0.0,5.0,199.0,3.0,64.0,Low,20+ yrs,High
+Mohan Shinde,ME,Associate Professor,7.0,8.0,5.0,2.0,27.0,4.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,31.0,30.0,Low,5-10 yrs,Low
+Prakash Mishra,MCA,Assistant Professor,9.0,11.0,5.0,7.0,11.0,0.0,4.0,2.0,1.0,0.0,2.0,0.0,0.0,17.0,46.0,Low,5-10 yrs,Low
