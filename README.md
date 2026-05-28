@@ -1,6 +1,6 @@
 # Faculty-Research-Analytics-Dashboards
 
-![Faculty Dashboard](admin dashboard.png)
+![Faculty Research Analysis Dashboard](admin%20dashboard.png)
 
 In the modern academic environment, analyzing research performance effectively is essential 
 for improving productivity and decision-making. This mini project focuses on transforming a 
